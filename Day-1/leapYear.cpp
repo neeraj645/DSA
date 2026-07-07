@@ -12,3 +12,5 @@ int main(){
     else cout <<"Not leap year"<<endl;
     }
 }
+// shorthand
+//(year % 4 == 0 && year % 100 != 0) || (year % 400 == 0)
